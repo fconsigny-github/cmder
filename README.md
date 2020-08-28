@@ -67,4 +67,5 @@ choco install docker-compose
 
 
 
-
+Custom 
+https://github.com/AmrEldib/cmder-powerline-prompt
